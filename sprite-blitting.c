@@ -56,6 +56,7 @@ int main(void) {
 
   // Main Loop
   while (!WindowShouldClose()) { // Detect when user clicks on X or presses ESC
+
     // Update
     ticks += GetFrameTime(); // Add elapsed time since last frame to counter
 
@@ -71,7 +72,7 @@ int main(void) {
     }
 
     // Drawing
-    // 
+    //
     // According to Raylib, the BeginDrawing() + EndDrawing() takes care of
     // double buffering for us - all drawing happens on a buffer that gets
     // swapped with the currently displayed buffer when the EndDrawing() call

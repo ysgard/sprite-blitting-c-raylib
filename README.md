@@ -6,6 +6,9 @@ So this is the sprite blitting example that exists in my other repos, i.e.
     - `ysgard/sprite-blitting-rs` - SDL2 and Rust
     - `ysgard/sprite-blitting-zig` - SDL2 and Zig
 
+
+![screenshot](screenshot.png)
+
 I thought it would be an interesting exercise to try the sprite blitting 
 example using a different library than SDL2, namely one that's become
 pretty popular in recent years - [Raylib](https://www.raylib.com/index.html)
