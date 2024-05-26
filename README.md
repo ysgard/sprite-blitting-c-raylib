@@ -1,10 +1,10 @@
 # Sprite Blitting Example, Using Raylib + C
 
 So this is the sprite blitting example that exists in my other repos, i.e.
-    - `ysgard/sprite-blitting-c` - SDL2 and C
-    - `ysgard/sprite-blitting-d` - SDL2 and D
-    - `ysgard/sprite-blitting-rs` - SDL2 and Rust
-    - `ysgard/sprite-blitting-zig` - SDL2 and Zig
+  - [sprite-blitting-c](https://github.com/ysgard/sprite-blitting-c) - SDL2 and C
+  - [sprite-blitting-d](https://github.com/ysgard/sprite-blitting-d) - SDL2 and D
+  - [sprite-blitting-rs](https://github.com/ysgard/sprite-blitting-rs) - SDL2 and Rust
+  - [sprite-blitting-zig](https://github.com/ysgard/sprite-blitting-zig) - SDL2 and Zig
 
 
 ![screenshot](screenshot.png)
